@@ -7,8 +7,8 @@ Version		: 0.1
 
 Modifications	: 
 
-Description     :This will simulate the data transfering process
-                 in the sram-dram two-layer caching system 
+Description     :This script will simulate the data transfering process
+                 in the two-layer high-speed caching system for CCN
                  to verify minimum reading cache size.
 '''
 
